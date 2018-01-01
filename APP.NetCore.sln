@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galeria.Web", "Galeria.Web\Galeria.Web.csproj", "{B7FF8F27-83AC-4FAE-9E75-F8677FEC2FC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{4679F6F6-AFF3-4A75-AEB1-6C50BA4076DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{AE681E17-E887-470D-8757-56953C014F69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B7FF8F27-83AC-4FAE-9E75-F8677FEC2FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7FF8F27-83AC-4FAE-9E75-F8677FEC2FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7FF8F27-83AC-4FAE-9E75-F8677FEC2FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4679F6F6-AFF3-4A75-AEB1-6C50BA4076DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4679F6F6-AFF3-4A75-AEB1-6C50BA4076DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4679F6F6-AFF3-4A75-AEB1-6C50BA4076DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4679F6F6-AFF3-4A75-AEB1-6C50BA4076DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE681E17-E887-470D-8757-56953C014F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE681E17-E887-470D-8757-56953C014F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE681E17-E887-470D-8757-56953C014F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE681E17-E887-470D-8757-56953C014F69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
